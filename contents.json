@@ -233,7 +233,10 @@
       "stars": 271,
       "tags": [
         "swift"
-      ]
+      ],
+      "suggested_by": "@dkhamsing",
+      "date_added": "Fri Nov 6 06:19:26 2015 -0800",
+      "screenshots": ["https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png", "https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png"]
     },
     {
       "title": "EX Player",
