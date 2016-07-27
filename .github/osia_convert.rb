@@ -71,7 +71,7 @@ def output_apps(apps)
 
       unless homepage.nil? && screenshots.nil?
         details = "  <details><summary>more</summary>\n"
-        details << "  #{homepage}\n" unless homepage.nil?
+        details << "  #{homepage} - " unless homepage.nil?
 
         formatted_date =
         if (date_added)
@@ -89,7 +89,7 @@ def output_apps(apps)
               suggested_by
             end
 
-          details << "  Added by #{author} #{formatted_date}"
+          details << "  Added by #{author} #{formatted_date} \n"
         end
 
         unless screenshots.nil?
