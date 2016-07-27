@@ -77,6 +77,11 @@ Projects that are not in English have a flag
  
 - Artsy Shows: Art shows on your TV `Swift` 🔥🔥
   - https://github.com/artsy/Emergence
+  <details><summary>more</summary>
+  Added by [@dkhamsing](https://github.com/dkhamsing) on November  6, 2015 
+  ![Artsy Shows image 1](https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png) 
+  ![Artsy Shows image 2](https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png) 
+  </details>
 - EX Player: Watch videos from EX.UA file sharing 
   - https://github.com/IGRSoft/exTVPlayer
 - iCook TV 
@@ -203,8 +208,8 @@ Projects that are not in English have a flag
   - https://github.com/mtigas/iOS-OnionBrowser
   - https://itunes.apple.com/app/id519296448
   <details><summary>more</summary>
-  https://mike.tig.as/onionbrowser/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  https://mike.tig.as/onionbrowser/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - Tob - Secure browser: A beautiful Tor browser to protect your anonymity 
   - https://github.com/JRock007/Tob
   - https://itunes.apple.com/app/id1063151782
@@ -229,8 +234,8 @@ Projects that are not in English have a flag
 - Antidote: A client for https://tox.chat/ 🔥
   - https://github.com/Antidote-for-Tox/Antidote
   <details><summary>more</summary>
-  https://antidote.im/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://antidote.im/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - BLEMeshChat: Bluetooth LE app 🔥🔥
   - https://github.com/chrisballinger/BLEMeshChat
 - Chats `Swift` 🔥🔥🔥🔥
@@ -249,8 +254,8 @@ Projects that are not in English have a flag
   - https://www.linphone.org/technical-corner/linphone/downloads
   - https://itunes.apple.com/app/linphone/id360065638
   <details><summary>more</summary>
-  https://www.linphone.org/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on May 31, 2016  </details>
+  https://www.linphone.org/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on May 31, 2016 
+  </details>
 - M: Email with device-to-device encryption for messages sent between M users 
   - https://github.com/Mynigma/M
   - https://itunes.apple.com/app/m-safe-email-made-simple/id818498595
@@ -264,8 +269,8 @@ Projects that are not in English have a flag
 - Spika: A secure business messenger 
   - https://github.com/cloverstudio/Spika
   <details><summary>more</summary>
-  https://spika.business/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  https://spika.business/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - surespot: Secures all messages using end-to-end encryption 
   - https://github.com/surespot/surespot-ios
   - https://itunes.apple.com/app/surespot/id790314865
@@ -280,14 +285,14 @@ Projects that are not in English have a flag
   - https://github.com/tutao/tutanota
   - https://itunes.apple.com/app/id922429609
   <details><summary>more</summary>
-  https://tutanota.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://tutanota.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Vector: Collaboration for teams, chat & share via http://matrix.org/ 
   - https://github.com/vector-im/vector-ios
   - https://itunes.apple.com/app/vector.im/id1083446067
   <details><summary>more</summary>
-  https://vector.im/
-  Added by Aakash Kambuj on July 21, 2016  </details>
+  https://vector.im/ -   Added by Aakash Kambuj on July 21, 2016 
+  </details>
 - Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. `Swift` 
   - https://github.com/wireapp/wire-ios
   - https://itunes.apple.com/app/wire/id930944768
@@ -330,8 +335,8 @@ Projects that are not in English have a flag
   - https://github.com/pkamb/swab
   - https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002
   <details><summary>more</summary>
-  http://swabthe.com/
-  Added by Peter Kamb on July 12, 2016  </details>
+  http://swabthe.com/ -   Added by Peter Kamb on July 12, 2016 
+  </details>
 
 ## Developer 
  
@@ -344,8 +349,8 @@ Projects that are not in English have a flag
   - https://github.com/Taehan-Kim/AppSlate
   - https://itunes.apple.com/app/id511327336
   <details><summary>more</summary>
-  https://www.facebook.com/AppSlate
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://www.facebook.com/AppSlate -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Bequest: Create and replay HTTP/S requests `Swift` 
   - https://github.com/splinesoft/Bequest
 - Blink: Mobile shell terminal based on Mosh 
@@ -365,8 +370,8 @@ Projects that are not in English have a flag
   - https://github.com/piwik/piwik-mobile-2
   - https://itunes.apple.com/app/id737216887
   <details><summary>more</summary>
-  https://piwik.org/mobile/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://piwik.org/mobile/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Review Time: Shows average review times for iOS and Mac apps `Swift` 🔥
@@ -385,8 +390,8 @@ Projects that are not in English have a flag
   - https://github.com/thedillonb/CodeHub
   - https://itunes.apple.com/app/id707173885
   <details><summary>more</summary>
-  http://codehub-app.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  http://codehub-app.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - GitBucket: Uses MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
   - https://github.com/leichunfeng/MVVMReactiveCocoa
   - https://itunes.apple.com/app/id961330940
@@ -511,8 +516,7 @@ Projects that are not in English have a flag
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
   - https://github.com/CliffsDover/crawl
   <details><summary>more</summary>
-  https://github.com/CliffsDover/crawl/tree/iOS_Release
-  </details>
+  https://github.com/CliffsDover/crawl/tree/iOS_Release -   </details>
 - Five In A Row (五子棋): SpriteKit game 🇨🇳
   - https://github.com/WelkinXie/FiveInARow
 - FlappySwift: Swift implementation of Flappy Bird `Swift` 🔥🔥🔥🔥🔥
@@ -521,29 +525,29 @@ Projects that are not in English have a flag
   - https://github.com/ifrotz/iosfrotz
   - https://itunes.apple.com/app/id287653015
   <details><summary>more</summary>
-  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
   - https://bitbucket.org/rileytestut/gba4ios/
 - Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 🔥🔥
   - https://github.com/Lyndir/Gorillas
   - https://itunes.apple.com/app/gorillas/id302275459
   <details><summary>more</summary>
-  http://gorillas.lyndir.com/
-  Added by Xabier Gorostidi on March  5, 2016  </details>
+  http://gorillas.lyndir.com/ -   Added by Xabier Gorostidi on March  5, 2016 
+  </details>
 - GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 `Swift` 
   - https://github.com/gamechina/GrubbyWorm
 - Hedgewars: A turn-based strategy game 
   - http://hg.hedgewars.org/hedgewars/
   - https://itunes.apple.com/app/id391234866
   <details><summary>more</summary>
-  http://www.hedgewars.org/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://www.hedgewars.org/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - Heredox: Place tiles to form your allegiance's symbols 
   - https://github.com/RolandasRazma/Heredox/
   <details><summary>more</summary>
-  http://www.heredox.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  http://www.heredox.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Hostile Takeover: A release of the Real Time Strategy game Warfare Incorporated 
   - https://github.com/spiffcode/hostile-takeover
 - hoxChess: Xiangqi (Chinese Chess) with single and multiplayer modes 
@@ -573,8 +577,8 @@ Projects that are not in English have a flag
   - https://github.com/shaunlebron/PterodactylAttack
   - https://itunes.apple.com/app/pterodactyl-attack/id786862892
   <details><summary>more</summary>
-  https://shaunlebron.github.io/pteroattack.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://shaunlebron.github.io/pteroattack.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
@@ -589,8 +593,8 @@ Projects that are not in English have a flag
   - https://github.com/fabiensanglard/Shmup
   - https://itunes.apple.com/app/shmup/id337663605
   <details><summary>more</summary>
-  http://fabiensanglard.net/shmup/
-  Added by Matthew Sanders on July 12, 2016  </details>
+  http://fabiensanglard.net/shmup/ -   Added by Matthew Sanders on July 12, 2016 
+  </details>
 - Skeleton Key: A puzzle game where you must shift keys around a board to unlock treasure chests 🔥
   - https://github.com/insurgentgames/Skeleton-Key-iOS
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
@@ -609,8 +613,8 @@ Projects that are not in English have a flag
   - http://7b5labs.com/xpilot.git/
   - https://itunes.apple.com/app/id322114791
   <details><summary>more</summary>
-  http://7b5labs.com/xpilotiphone
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  http://7b5labs.com/xpilotiphone -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 
 ### Emulators 
  
@@ -627,8 +631,8 @@ Projects that are not in English have a flag
 - Mini vMac: Early 68K Macintosh emulator 
   - https://github.com/zydeco/minivmac4ios
   <details><summary>more</summary>
-  https://namedfork.net/minivmac/
-  Added by Jesús A. Álvarez on July 11, 2016  </details>
+  https://namedfork.net/minivmac/ -   Added by Jesús A. Álvarez on July 11, 2016 
+  </details>
 - nds4ios: Nintendo DS emulator, port of DeSmuME 
   - https://github.com/raaxis/nds4ios
 - PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
@@ -748,14 +752,14 @@ Projects that are not in English have a flag
   - https://github.com/mapsme/omim
   - https://itunes.apple.com/app/id510623322
   <details><summary>more</summary>
-  https://maps.me/en/home
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on May 31, 2016  </details>
+  https://maps.me/en/home -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on May 31, 2016 
+  </details>
 - Miataru: A location tracking app where data can be shared over public or private servers 
   - https://github.com/miataru/miataru-ios-client
   - https://itunes.apple.com/app/id717539389
   <details><summary>more</summary>
-  http://miataru.com/ios/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://miataru.com/ios/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - Moves: Visualize where you spend your time 
   - https://github.com/neonichu/Places
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
@@ -767,8 +771,8 @@ Projects that are not in English have a flag
   - https://github.com/osmandapp/Osmand
   - https://itunes.apple.com/app/id934850257
   <details><summary>more</summary>
-  http://osmand.net/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  http://osmand.net/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family and friends 
   - https://github.com/owntracks/ios
 - ParkenDD: Check the status of several public parking lots in Germany and Switzerland `Swift` 
@@ -781,14 +785,14 @@ Projects that are not in English have a flag
 - Prey: Track lost or stolen devices and perform actions remotely `Swift` 
   - https://github.com/prey/prey-swift-client
   <details><summary>more</summary>
-  https://preyproject.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://preyproject.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely 🔥🔥
   - https://github.com/prey/prey-ios-client
   - https://itunes.apple.com/app/id456755037
   <details><summary>more</summary>
-  https://preyproject.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://preyproject.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
   - https://github.com/sugarso/MappedInIsrael
 - Swift-Walk-Tracker: Track your walks `Swift` 
@@ -806,8 +810,8 @@ Projects that are not in English have a flag
   - https://github.com/sozialhelden/wheelmap-iphone2
   - https://itunes.apple.com/app/id399239476
   <details><summary>more</summary>
-  http://wheelmap.org
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://wheelmap.org -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 
 ## Media 
  
@@ -867,14 +871,14 @@ Image, video, audio, reading — [back to top](#readme)
 - Kodi: A popular media player and entertainment hub 🔥🔥🔥🔥🔥
   - https://github.com/xbmc/xbmc
   <details><summary>more</summary>
-  http://kodi.wiki/view/IOS
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  http://kodi.wiki/view/IOS -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Kodi Remote: A full-featured remote control for Kodi Media Center 🔥🔥🔥🔥🔥
   - https://github.com/xbmc/xbmc
   - https://itunes.apple.com/app/id520480364
   <details><summary>more</summary>
-  https://kodi.tv/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://kodi.tv/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - KonaBot: Unofficial app for konachan.net `Swift` 
   - https://github.com/hkalexling/KonaBot-iOS
   - https://itunes.apple.com/app/konabot/id1055716649
@@ -897,8 +901,8 @@ Image, video, audio, reading — [back to top](#readme)
   - http://git.ghostscript.com/?p=mupdf.git;a=summary
   - https://itunes.apple.com/app/id482941798
   <details><summary>more</summary>
-  http://mupdf.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://mupdf.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram `Swift` 
   - https://github.com/Sajjon/SwiftIntro
 - OCiney: Movie info app 🔥🔥
@@ -930,16 +934,16 @@ Image, video, audio, reading — [back to top](#readme)
   - https://sourceforge.net/projects/projectm/
   - https://itunes.apple.com/app/id530922227
   <details><summary>more</summary>
-  http://projectm.sourceforge.net/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://projectm.sourceforge.net/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - Pugs: Simple pug photo viewer `Swift` 
   - https://github.com/soffes/Pugs
 - Radio Paradise: Official app for http://www.radioparadise.com/ 
   - https://github.com/ilTofa/rposx
   - https://itunes.apple.com/app/id663334697
   <details><summary>more</summary>
-  https://www.iltofa.com/rphd/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://www.iltofa.com/rphd/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
 - RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
@@ -976,8 +980,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/videolan/vlc
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
   <details><summary>more</summary>
-  https://www.videolan.org/
-  Added by [@dkhamsing](https://github.com/dkhamsing) on March 22, 2015  </details>
+  https://www.videolan.org/ -   Added by [@dkhamsing](https://github.com/dkhamsing) on March 22, 2015 
+  </details>
 - VoiceMemos: iPhone/iPad audio recorder `Swift` 🔥🔥
   - https://github.com/MoZhouqi/VoiceMemos
 - xkcd: iPhone app 
@@ -990,8 +994,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://sourceforge.net/projects/zbar/
   - https://itunes.apple.com/app/id344957305
   <details><summary>more</summary>
-  http://zbar.sourceforge.net/
-  </details>
+  http://zbar.sourceforge.net/ -   </details>
 
 ## News 
  
@@ -1001,8 +1004,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ryanipete/AmericanChronicle
   - https://itunes.apple.com/app/id1092988367
   <details><summary>more</summary>
-  http://ryanipete.com/AmericanChronicle/
-  Added by Ryan Peterson on June 22, 2016  </details>
+  http://ryanipete.com/AmericanChronicle/ -   Added by Ryan Peterson on June 22, 2016 
+  </details>
 - Designer News App `Swift` 🔥🔥🔥🔥
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
@@ -1080,40 +1083,39 @@ Image, video, audio, reading — [back to top](#readme)
 - Kodi: A popular media player and entertainment hub 🔥🔥🔥🔥🔥
   - https://github.com/xbmc/xbmc
   <details><summary>more</summary>
-  http://kodi.wiki/view/IOS
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  http://kodi.wiki/view/IOS -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Kodi Remote: A full-featured remote control for Kodi Media Center 🔥🔥🔥🔥🔥
   - https://github.com/xbmc/xbmc
   - https://itunes.apple.com/app/id520480364
   <details><summary>more</summary>
-  https://kodi.tv/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://kodi.tv/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - osia: Super basic app to browse open-source-ios-apps 
   - https://github.com/dkhamsing/osia
 - Piwik Mobile 2: [Piwik](http://piwik.org/) analytics on the go 
   - https://github.com/piwik/piwik-mobile-2
   - https://itunes.apple.com/app/id737216887
   <details><summary>more</summary>
-  https://piwik.org/mobile/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://piwik.org/mobile/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Radio Paradise: Official app for http://www.radioparadise.com/ 
   - https://github.com/ilTofa/rposx
   - https://itunes.apple.com/app/id663334697
   <details><summary>more</summary>
-  https://www.iltofa.com/rphd/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://www.iltofa.com/rphd/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ `Swift` 
   - https://github.com/WWDCScholars/WWDCScholars-iOS
   - https://itunes.apple.com/app/scholars-of-wwdc/id999731893
   <details><summary>more</summary>
-  http://wwdcscholars.com/
-  </details>
+  http://wwdcscholars.com/ -   </details>
 - VLC: Media Player 🔥🔥🔥🔥
   - https://github.com/videolan/vlc
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
   <details><summary>more</summary>
-  https://www.videolan.org/
-  Added by [@dkhamsing](https://github.com/dkhamsing) on March 22, 2015  </details>
+  https://www.videolan.org/ -   Added by [@dkhamsing](https://github.com/dkhamsing) on March 22, 2015 
+  </details>
 - WhiteHouse: Official White House app 🔥🔥🔥
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
@@ -1255,20 +1257,20 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/mattrubin/authenticator
   - https://itunes.apple.com/app/id766157276
   <details><summary>more</summary>
-  https://mattrubin.me/authenticator/
-  Added by [@dkhamsing](https://github.com/dkhamsing) on March 11, 2016  </details>
+  https://mattrubin.me/authenticator/ -   Added by [@dkhamsing](https://github.com/dkhamsing) on March 11, 2016 
+  </details>
 - Dono: Password derivation tool `Swift` 
   - https://github.com/dono-app/ios/
   - https://itunes.apple.com/app/id1092920229
   <details><summary>more</summary>
-  https://dono-app.github.io/
-  Added by Panos Sakkos on July 14, 2016  </details>
+  https://dono-app.github.io/ -   Added by Panos Sakkos on July 14, 2016 
+  </details>
 - Encryptr: A zero-knowledge, cloud-based e-wallet and password manager 🔥🔥🔥🔥
   - https://github.com/SpiderOak/Encryptr
   - https://itunes.apple.com/app/id1066041348
   <details><summary>more</summary>
-  https://spideroak.com/solutions/encryptr
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  https://spideroak.com/solutions/encryptr -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - FreeOTP Authenticator: Two-Factor Authentication 
   - https://fedorahosted.org/freeotp/browser/ios
   - https://itunes.apple.com/app/freeotp/id872559395
@@ -1287,14 +1289,14 @@ Image, video, audio, reading — [back to top](#readme)
 - Prey: Track lost or stolen devices and perform actions remotely `Swift` 
   - https://github.com/prey/prey-swift-client
   <details><summary>more</summary>
-  https://preyproject.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://preyproject.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely 🔥🔥
   - https://github.com/prey/prey-ios-client
   - https://itunes.apple.com/app/id456755037
   <details><summary>more</summary>
-  https://preyproject.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://preyproject.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - SkeletonKey: iPhone password manager with Dropbox 
   - https://github.com/chrishulbert/SkeletonKey
   - https://itunes.apple.com/app/skeleton-key-password-manager/id513648119
@@ -1315,8 +1317,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Minds/mobile
   - https://itunes.apple.com/app/id961771928
   <details><summary>more</summary>
-  https://www.minds.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  https://www.minds.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - Peggsite: App for sharing a social board 
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951
@@ -1342,8 +1344,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/HabitRPG/habitrpg-ios
   - https://itunes.apple.com/app/id994882113
   <details><summary>more</summary>
-  https://habitica.com/static/front
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://habitica.com/static/front -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - MyAwesomeChecklist `Swift` 
   - https://github.com/imod/MyAwesomeChecklist
 - RealmToDo: A small to-do list with Realm integration `Swift` 
@@ -1354,8 +1356,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://sourceforge.net/projects/taskcoach/
   - https://itunes.apple.com/app/task-coach/id311403563
   <details><summary>more</summary>
-  http://taskcoach.org/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on May 31, 2016  </details>
+  http://taskcoach.org/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on May 31, 2016 
+  </details>
 - Tinylog: A minimal iPhone/iPad to-do app `Swift` 
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
@@ -1397,15 +1399,15 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/jlnr/MovieDict
   - https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066
   <details><summary>more</summary>
-  https://moviedict.info
-  Added by Julian Raschke on July 26, 2016  </details>
+  https://moviedict.info -   Added by Julian Raschke on July 26, 2016 
+  </details>
 - Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
   - https://github.com/hACKbUSTER/UberGuide-iOS
 - Themoji: Use Emojis to communicate while traveling 
   - https://github.com/themoji/ios
   <details><summary>more</summary>
-  https://themoji.me/
-  Added by Daniel Khamsing on July 12, 2016  </details>
+  https://themoji.me/ -   Added by Daniel Khamsing on July 12, 2016 
+  </details>
 
 ## Weather 
  
@@ -1429,8 +1431,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Weather by jsphkhan: Weather app using React Native 
   - https://github.com/jsphkhan/ReactNativeExamples
   <details><summary>more</summary>
-  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
-  </details>
+  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp -   </details>
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap `Swift` 🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
@@ -1446,8 +1447,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/kiwix/iOS
   - https://itunes.apple.com/app/id997079563
   <details><summary>more</summary>
-  http://www.kiwix.org/wiki/Main_Page
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://www.kiwix.org/wiki/Main_Page -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - PHPHub: iPhone/iPad app for PHPHub Forum 🇨🇳🔥🔥🔥
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
@@ -1519,8 +1520,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Minds/mobile
   - https://itunes.apple.com/app/id961771928
   <details><summary>more</summary>
-  https://www.minds.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  https://www.minds.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - Vegan Lists UK: View and collect official/unofficial Vegan food lists 
   - https://github.com/dsgriffin/vegan-lists-uk
   - https://itunes.apple.com/app/vegan-lists-uk/id1083273301
@@ -1579,8 +1580,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Currency Converter 
   - https://github.com/ashwinpreet/ReactNativeExamples
   <details><summary>more</summary>
-  https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter
-  </details>
+  https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter -   </details>
 - Den: View houses for sale in the Northwest 🔥🔥
   - https://github.com/asamiller/den
 - Dribbble 🔥🔥🔥🔥
@@ -1643,8 +1643,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Weather by jsphkhan: Weather app using React Native 
   - https://github.com/jsphkhan/ReactNativeExamples
   <details><summary>more</summary>
-  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
-  </details>
+  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp -   </details>
 
 ### Realm 
  
@@ -1669,8 +1668,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ryanipete/AmericanChronicle
   - https://itunes.apple.com/app/id1092988367
   <details><summary>more</summary>
-  http://ryanipete.com/AmericanChronicle/
-  Added by Ryan Peterson on June 22, 2016  </details>
+  http://ryanipete.com/AmericanChronicle/ -   Added by Ryan Peterson on June 22, 2016 
+  </details>
 - Contacts 
   - https://github.com/sebastianwr/VIPER-Persons
 - Counter 🔥🔥
@@ -1683,8 +1682,7 @@ Image, video, audio, reading — [back to top](#readme)
 - To do: A to-do list app using Viper 🔥🔥🔥
   - https://github.com/objcio/issue-13-viper
   <details><summary>more</summary>
-  https://www.objc.io/issues/13-architecture/viper/
-  </details>
+  https://www.objc.io/issues/13-architecture/viper/ -   </details>
 
 ### Xamarin 
  
@@ -1721,8 +1719,8 @@ Image, video, audio, reading — [back to top](#readme)
 - FreeRDP: An implementation of the Remote Desktop Protocol (RDP) 🔥🔥🔥🔥
   - https://github.com/FreeRDP/FreeRDP
   <details><summary>more</summary>
-  http://www.freerdp.com/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://www.freerdp.com/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - GammaThingy: Change screen gamma dynamically 🔥🔥🔥
   - https://github.com/thomasfinch/GammaThingy
 - GoodNight: Change screen gamma dynamically 🔥🔥🔥
@@ -1731,8 +1729,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/hackfoldr/hackfoldr-iOS
   - https://itunes.apple.com/app/hackfoldr/id919010837
   <details><summary>more</summary>
-  https://hackfoldr.org
-  Added by Superbil on July 18, 2016  </details>
+  https://hackfoldr.org -   Added by Superbil on July 18, 2016 
+  </details>
 - Hidrate: Interacts with smart water bottle 
   - https://github.com/mjcuva/Hidrate
 - iContactU: Reminds you to contact people you ought to `Swift` 🔥
@@ -1760,8 +1758,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/openhab/openhab.ios
   - https://itunes.apple.com/app/id492054521
   <details><summary>more</summary>
-  http://www.openhab.org/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://www.openhab.org/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - OpenIt: Notification widget to launch other apps from the notification center 
   - https://github.com/BalestraPatrick/OpenIt
 - ownCloud: File browser and sync for ownCloud file hosting service 🔥🔥
@@ -1776,8 +1774,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/haiwen/seafile-iOS
   - https://itunes.apple.com/app/id639202512
   <details><summary>more</summary>
-  https://www.seafile.com/en/home/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016  </details>
+  https://www.seafile.com/en/home/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  1, 2016 
+  </details>
 - Send To Me: Share content to your email with a single tap `Swift` 
   - https://github.com/PiXeL16/SendToMe
   - https://itunes.apple.com/app/id1100027787
@@ -1818,8 +1816,8 @@ Image, video, audio, reading — [back to top](#readme)
   - http://thomasokken.com/free42/download/free42.tgz
   - https://itunes.apple.com/app/id337692629
   <details><summary>more</summary>
-  http://thomasokken.com/free42/
-  Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016  </details>
+  http://thomasokken.com/free42/ -   Added by [@scribblemaniac](https://github.com/scribblemaniac) on June  2, 2016 
+  </details>
 - NumberPad: An experimental prototype calculator for iPad 
   - https://github.com/bridger/NumberPad
 - Round & Split: Tip Calculator `Swift` 
